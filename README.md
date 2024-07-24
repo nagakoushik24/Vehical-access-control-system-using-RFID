@@ -37,7 +37,7 @@ The Automated Vehicle Access Control System uses IR sensors to detect approachin
 - Breadboard
 
 ## Flow Path
-![Flow Path Diagram](link_to_flow_path_diagram_image)
+![Flow Path Diagram](https://github.com/nagakoushik24/Vehical-access-control-system-using-RFID/Images/flow_diagram.jpg)
 
 ## Circuit Diagram
 ![Circuit Diagram](link_to_circuit_diagram_image)
