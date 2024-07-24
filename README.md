@@ -48,7 +48,7 @@ The Automated Vehicle Access Control System uses IR sensors to detect approachin
 ## Installation
 1. Clone this repository:
     ```sh
-    git clone https://github.com/nagakoushik24/Vehicle-Access-Gate-Control-System.git
+    git clone https://github.com/nagakoushik24/Vehical-access-control-system-using-RFID.git
     ```
 2. Open the project in Arduino IDE.
 
