@@ -37,13 +37,13 @@ The Automated Vehicle Access Control System uses IR sensors to detect approachin
 - Breadboard
 
 ## Flow Path
-![Flow Path Diagram](https://github.com/nagakoushik24/Vehical-access-control-system-using-RFID/Images/flow_diagram.jpg)
+![Flow Path Diagram]([https://github.com/nagakoushik24/Vehical-access-control-system-using-RFID/Images/flow_diagram.jpg](https://github.com/nagakoushik24/Vehical-access-control-system-using-RFID/blob/main/Images/flow_diagram.png))
 
 ## Circuit Diagram
-![Circuit Diagram](link_to_circuit_diagram_image)
+![Circuit Diagram]([link_to_circuit_diagram_image](https://github.com/nagakoushik24/Vehical-access-control-system-using-RFID/blob/main/Images/thinkercad_circuit.png))
 
-## FHardware model
-![Hardware Model](link_to_flow_path_diagram_image)
+## Hardware model
+![Hardware Model]([link_to_flow_path_diagram_image](https://github.com/nagakoushik24/Vehical-access-control-system-using-RFID/blob/main/Images/hardware_model.jpg))
 
 ## Installation
 1. Clone this repository:
